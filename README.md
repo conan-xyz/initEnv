@@ -1,8 +1,11 @@
 # initEnv
 ### react+redux initial environment
-# 环境
+
+# env
 1) npm webpack react redux ... 
 
-# 运行
+# install
 > npm i
+
+# run
 > npm start
